@@ -1,4 +1,4 @@
-This repository is for learning basic testing using mocha chai, with open API sample from *"reqres.in"*. 
+This repository is for learning basic API testing using mocha chai, with open API sample from *"reqres.in"*. 
 
 ## Getting Started
 
